@@ -1,5 +1,5 @@
 # Reinforced Learning- An Introduction (2nd Edition)
-##### By Andrew Barto and Richard S. Sutton
+#### By Andrew Barto and Richard S. Sutton
 
 
 This repository contains my self-study work as I make way through Reinforced Learning by Barto and Sutton.  

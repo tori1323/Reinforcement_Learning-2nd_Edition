@@ -8,5 +8,4 @@ Under the Julia folder, you will find my code for the coding problems found thro
 Disclaimer: Some of the answers found in my solution keys *may* not be correct- so utilize any solutions found here with caution.  The plan is to revisit past problems as I progress through the book to converge on a thorough and correct solution.
 
 Videos by David Silver that follow the textbook well:
-
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ

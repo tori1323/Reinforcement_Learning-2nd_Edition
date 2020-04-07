@@ -7,4 +7,4 @@ Under the Julia folder, you will find my code for the coding problems found thro
 
 Disclaimer: Some of the answers found in my solution keys *may* not be correct- so utilize any solutions found here with caution.  The plan is to revisit past problems as I progress through the book to converge on a thorough and correct solution.
 
-Note: Chapter 2 code was done using Matlab and still being converted to Julia.
+Note: Chapter 2 code was done using Matlab and is still being converted to Julia.

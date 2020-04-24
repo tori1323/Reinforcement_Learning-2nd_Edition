@@ -1,5 +1,5 @@
 function[Action] = Decision_Maker(n_actions)
-    dice = rand(1)*.01; % Generate random number between 0 and 1
+    dice = rand(1); % Generate random number between 0 and 1
     set = zeros(1,n_actions); % Generate array to hold limits
     limit_start = 1/n_actions; % Define start limit
     
